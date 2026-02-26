@@ -200,21 +200,3 @@ Forslag til næste repo:
 - Fokus på job dependencies, retries, monitoring og incremental loads
 
 Dette bygger direkte videre på kompetencerne i dette repo og viser platform-agnostisk modenhed.
-
----
-
-## CV/Portfolio-tekst (copy/paste)
-
-> Byggede et end-to-end data warehouse med Medallion-arkitektur (Bronze/Silver/Gold), inklusive idempotente loads, datakvalitets-gates, relationel integritet og Kimball-inspireret Gold-model med business views til BI-rapportering.
-
-Kort version:
-
-> End-to-end SQL DWH (Medallion + Kimball) med quality gates og analytics-ready views.
-
----
-
-Hvis du vil, kan jeg også lave:
-
-- en **engelsk README-version**,
-- en **“Hiring manager friendly” 10-linjers version**,
-- eller en **Databricks v2 roadmap.md** som næste repo-plan.
